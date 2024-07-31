@@ -1,5 +1,4 @@
-<!--   [![MasterHead](https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif)](https://rishavchanda.i) -->
-<img align="center" width="100%" height="400px" alt='coding' src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
+[![MasterHead](https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif)](https://rishavchanda.i)
 
 <h1 align="center">Hi 👋, I'm Mohamed Salah hanafi</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
